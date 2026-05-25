@@ -171,11 +171,6 @@ TESAIoT (Thai Embedded Systems & AIoT) is a research group at Burapha
 University focused on ambient AI hardware that meets you where you
 already are — at your desk, in your home, on the workbench.
 
-The BentoClaw board, the firmware that runs on it, and this desktop
-companion are all developed openly. The installer artifacts in this
-repository are built from the source repositories below.
-
-**Source repositories** (kept separate to keep download size light here):
-- Desktop app: [github.com/wiroon/Bento-desktop-buddy](https://github.com/wiroon/Bento-desktop-buddy)
-- Firmware: [github.com/wiroon/bentoclaw-buddy](https://github.com/wiroon/bentoclaw-buddy)
-- Playground / examples: [github.com/wiroon/bentoclaw-playground](https://github.com/wiroon/bentoclaw-playground)
+Bento Desktop Buddy is part of the TESAIoT product family for ambient
+edge-AI hardware. For more about the team and the BentoClaw board,
+visit **<https://tesaiot.dev>**.
