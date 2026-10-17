@@ -35,7 +35,7 @@ Pick the installer for your operating system below, download it from the
 [**Releases page**](https://github.com/wiroon/Bento-Desktop-App-Installer/releases/latest),
 and run it.
 
-> **v1.8.0 is for macOS only.** On Windows or Linux, use the installers from [v1.7.0](https://github.com/wiroon/Bento-Desktop-App-Installer/releases/tag/v1.7.0). Passkey pairing in v1.8.0 needs board firmware with the pairing security-grant fix (HMI 2.1.0 or later, not yet public). Boards on older firmware are expected to work as they did with v1.7.0, but this has not yet been tested on hardware.
+> **v1.8.x is for macOS only.** On Windows or Linux, use the installers from [v1.7.0](https://github.com/wiroon/Bento-Desktop-App-Installer/releases/tag/v1.7.0). Passkey pairing in v1.8.x needs board firmware with the pairing security-grant fix (HMI 2.1.0 or later, not yet public). Boards on older firmware are expected to work as they did with v1.7.0, but this has not yet been tested on hardware. Board media buttons need macOS Accessibility permission; the app asks for it.
 
 | OS | File | How to install |
 |---|---|---|
